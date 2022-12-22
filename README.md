@@ -13,7 +13,7 @@
 - Issued July 16, 2022 CareerVio: Responsive Web Design Developer Certificate [Show credential](https://learn.careervio.com/certification/fcc7725b852-2049-40d9-a43b-dc4585de2639/responsive-web-design)
 
 ## Work experience
-- **Oct 2019 - currently: Software Engineer outsource at **Aware Group** (Bangkok, Thailand)**
+- **Oct 2019 - currently: Software Engineer outsource at Aware Group (Bangkok, Thailand)**
   - **Aug 2022 - Present · (5 month): Egg Digital (Bangkok, Thailand)**
     - Project Single Web Portal backend cms to manage content for [True.th](https://true.th)
       - develop in planning feature
