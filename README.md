@@ -6,8 +6,12 @@
   - linkedin: [linkedin.com/in/ballsurakiat](https://www.linkedin.com/in/ballsurakiat)
 
 ## Summary
-- I'm working in role Web Fullstack Developer about 5 year experience as Javascript & Typescript programming language wich framework mostly was fronted Vuejs, ReactJs and backend NodeJS, Gin(Golang) database feel good at MongoDB, MySQL, Postgresql. 
-- Working process in Scrum by 2 week circle
+I'm working in role Web Fullstack Developer about 5 year experience as Javascript & Typescript programming language wich framework mostly was 
+- Fronted: Vuejs, ReactJs.
+- Backend: NodeJS, Gin(Golang).
+- Database feel good at: MongoDB, MySQL, Postgresql.
+- Cloud a little bit at: AWS S3, Cloudfront, Digitalocean, Cloudflare mostly in staging environment and mini task assigned.
+- Basic use at: Google Adsense, Google Analytics, Google Search console.
 
 ## Licenses & certifications
 - Issued July 16, 2022 CareerVio: Responsive Web Design Developer Certificate [Show credential](https://learn.careervio.com/certification/fcc7725b852-2049-40d9-a43b-dc4585de2639/responsive-web-design)
