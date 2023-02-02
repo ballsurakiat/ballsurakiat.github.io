@@ -17,8 +17,12 @@ I'm working in role Web Fullstack Developer about 5 year experience as Javascrip
 - Issued July 16, 2022 CareerVio: Responsive Web Design Developer Certificate [Show credential](https://learn.careervio.com/certification/fcc7725b852-2049-40d9-a43b-dc4585de2639/responsive-web-design)
 
 ## Work experience
-- **Oct 2019 - currently: Software Engineer outsource at Aware Group (Bangkok, Thailand)**
-  - **Aug 2022 - Present · (5 month): Egg Digital (Bangkok, Thailand)**
+- **Oct 2019 - Present: Software Engineer outsource at Aware Group (Bangkok, Thailand)**
+  - **Jun 2023 - current: Gosoft (Bangkok, Thailand)**
+    - Secret project detail
+      - Develop nodejs service following design from Team lead
+      - Skills: React.js · Node.js · MySQL · Jest
+  - **Aug 2022 - Jun 2023 · (6 month): Egg Digital (Bangkok, Thailand)**
     - Project Single Web Portal backend cms to manage content for [True.th](https://true.th)
       - develop in planning feature
       - issue support from defect and maintenance
