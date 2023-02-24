@@ -1,5 +1,5 @@
 # Surakiat Nantasaeng
-- Web Fullstack Developer
+- Full Stack Web Developer
 - live in Bangkok City, Thailand
 - Contact
   - email: [surakiat.n@gmail.com](mailto:surakiat.n@gmail.com)
