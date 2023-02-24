@@ -3,10 +3,11 @@
 - live in Bangkok City, Thailand
 - Contact
   - email: [surakiat.n@gmail.com](mailto:surakiat.n@gmail.com)
-  - linkedin: [linkedin.com/in/ballsurakiat](https://www.linkedin.com/in/ballsurakiat)
+  - linkedin: [ballsurakiat](https://www.linkedin.com/in/ballsurakiat)
+  - Github: [ballsurakiat](https://github.com/ballsurakiat)
 
 ## Summary
-I'm working in role Web Fullstack Developer about 4 year experience as Javascript & Typescript programming language wich framework mostly was 
+I'm working in role Full Stack Web Developer about 4 year experience as Javascript & Typescript programming language wich framework mostly was 
 - Fronted: Vuejs, ReactJs.
 - Backend: NodeJS (ExpressJS, NestJS), Gin(Golang).
 - Database feel good at: MongoDB, MySQL, Postgresql.
