@@ -21,7 +21,7 @@ I'm working in role Web Fullstack Developer about 4 year experience as Javascrip
 
   From Oct 2019 - Present: Outsourcing was 4 company
   
-  - Software Engineer, Gosoft (Bangkok, Thailand)
+  - **Software Engineer, Gosoft (Bangkok, Thailand)**
     
     *June 2023 - Current*
 
