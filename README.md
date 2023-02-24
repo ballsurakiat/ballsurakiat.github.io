@@ -6,58 +6,78 @@
   - linkedin: [linkedin.com/in/ballsurakiat](https://www.linkedin.com/in/ballsurakiat)
 
 ## Summary
-I'm working in role Web Fullstack Developer about 5 year experience as Javascript & Typescript programming language wich framework mostly was 
+I'm working in role Web Fullstack Developer about 4 year experience as Javascript & Typescript programming language wich framework mostly was 
 - Fronted: Vuejs, ReactJs.
-- Backend: NodeJS, Gin(Golang).
+- Backend: NodeJS (ExpressJS, NestJS), Gin(Golang).
 - Database feel good at: MongoDB, MySQL, Postgresql.
-- Cloud a little bit at: AWS S3, Cloudfront, Digitalocean, Cloudflare mostly in staging environment and mini task assigned.
+- Cloud a little bit at: Digitalocean, Cloudflare mostly in staging environment and mini task assigned.
 - Basic use at: Google Adsense, Google Analytics, Google Search console.
 
 ## Licenses & certifications
 - Issued July 16, 2022 CareerVio: Responsive Web Design Developer Certificate [Show credential](https://learn.careervio.com/certification/fcc7725b852-2049-40d9-a43b-dc4585de2639/responsive-web-design)
 
 ## Work experience
-- **Oct 2019 - Present: Software Engineer outsource at Aware Group (Bangkok, Thailand)**
-  - **Jun 2023 - current: Gosoft (Bangkok, Thailand)**
-    - Secret project detail
-      - Develop nodejs service following design from Team lead
-      - Skills: React.js · Node.js · MySQL · Jest
-  - **Aug 2022 - Jun 2023 · (6 month): Egg Digital (Bangkok, Thailand)**
-    - Project Single Web Portal backend cms to manage content for [True.th](https://true.th)
-      - develop in planning feature
-      - issue support from defect and maintenance
-      - Skills: React.js · Node.js · MySQL
-  - **Jun 2020 - Jul 2022 · (2 yrs 2 month): AIS (Bangkok, Thailand)**
-      - Project ecommerce product physical sim card and esim for [become-ais-family.ais.co.th](https://become-ais-family.ais.co.th/)
-        - develop and planning feature from requirement.
-        - diagnose issue and maintenance website backend.
-        - generate report and summary data from task assigned for project manager.
-        - Skills: Java · JBoss Application Server · Vue.js · PostgreSQL
-  - **Oct 2019 - May 2020 (8 month): True (Bangkok, Thailand)**
-    - Project **True** Intra admin dashboard.
-      - generate dashboard from excel data.
-      - design and develop web application in requirement.
-      - planning develop, testing and document.
-      - maintenance and issue support to users.
-      - Skills: React.js · Docker · Node.js · MongoDB
+- **Software Engineer Outsource, Aware Group (Bangkok, Thailand)**
 
-- **Jul 2018 - Sep 2019 (1 yr 3 month): Web Application Developer at EZKAE Co.,Ltd. (Bangkok, Thailand)**
-  - Project e-commerce sale government supply [goverlution.com](https://goverlution.teamtamweb.com/) and single page [droppointplus.com](https://droppointplus.com/)
-    - planning, develop, testing and deploy website.
-    - improve and develop new feature.
-    - issue support and maintenanceProject e-commerce sale government supply.
-    - planning, design, develop, testing and document release.
-    - provide Linux cloud server for deploy production environment.
-    - support issue and maintenance Project static web home page droppointplus.com.
-    - planning, develop, testing and deploy website.
-    - improve and develop new feature.
-    - issue support and maintenance.
-  - Skills: Cloud DigitalOcean · pm2 · Linux Server · Node.js · Vue.js · MySQL · NGINX
+  From Oct 2019 - Present: Outsourcing was 4 company
+  
+  - Software Engineer, Gosoft (Bangkok, Thailand)
+    
+    *June 2023 - Current*
 
-- **Jul 2017 - Oct 2017 (4 month): Web Developer (Cooperative Education) at Bluewind Solution Co., Ltd. (Khlong Luang, Pathum Thani)**
+    - Worked on a secret project
+    - Developed node.js services based on designs from the team lead
+    - Skills: Node.js, PassportJS, MySQL, Jest
+
+
+  - **Software Engineer, Egg Digital (Bangkok, Thailand)**
+    
+    *August 2022 - June 2023*
+
+    - Worked on a project involving a single web portal backend CMS for managing content for True.th
+    - Responsibilities included developing planning features, providing support for issues and defects, and performing maintenance
+    - Skills: React.js, Strapi, Node.js, MySQL, Docker
+
+
+  - **Software Engineer, AIS (Bangkok, Thailand)**
+    
+    *June 2020 - July 2022*
+
+    - Worked on a project involving an e-commerce product for physical SIM cards and eSIMs
+    - Responsibilities included planning and developing features based on requirements, diagnosing issues and performing maintenance on the website backend, and generating reports and summary data for the project manager
+    - Skills: Vue.js, HTML, Java, PostgreSQL, JBoss Application Server
+
+  - **Software Engineer, True (Bangkok, Thailand)**
+    
+    *October 2019 - May 2020*
+
+    - Worked on a project involving the True Intra admin dashboard
+    - Responsibilities included generating dashboards from Excel data, designing and developing web applications based on requirements, planning development, testing and documentation, and providing maintenance and issue support to users
+    - Skills: React.js, Node.js, Oracle DB, Docker
+
+- **Web Application Developer, EZKAE Co.,Ltd. (Bangkok, Thailand)**
+  
+  *July 2018 - September 2019*
+
+  - **Project: E-commerce Sale for Government Supply (Goverlution.com)**
+      - Planned, developed, tested, and deployed websites
+      - Improved and developed new features
+      - Provided issue support and maintenance
+      - Skills: Node.js, Vue.js, Cloud DigitalOcean, NGINX, pm2, Linux Server, MySQL
+  - **Project: Single Page Droppointplus.com**
+      - Planned, developed, tested, and deployed website
+      - Improved and developed new features
+      - Provided issue support and maintenance
+      - Skills: HTML, JQuery, PHP, MySQL, Apache Web Server
+
+- **Web Developer (Cooperative Education) at Bluewind Solution Co., Ltd. (Khlong Luang, Pathum Thani)**
+  
+  *Jul 2017 - Oct 2017*
    - secret project detail
-      - develop, testing website from task assigned
+   - develop, testing website from task assigned
    - Skills: .NET Framework · Bootstrap · Microsoft SQL Server
 
 ## Education
-- 2015 - 2018: Bachelors in Enterprise Software at Suranaree University of Technology (Nakhon Ratchasima Province, Thailand)
+- Bachelors in Enterprise Software at Suranaree University of Technology (Nakhon Ratchasima Province, Thailand) GPAX: 2.21
+  
+  *2015 - 2018*
