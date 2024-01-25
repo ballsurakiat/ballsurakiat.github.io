@@ -18,9 +18,15 @@ I'm working in role Full Stack Web Developer about 4 year experience as Javascri
 - Issued July 16, 2022 CareerVio: Responsive Web Design Developer Certificate [Show credential](https://learn.careervio.com/certification/fcc7725b852-2049-40d9-a43b-dc4585de2639/responsive-web-design)
 
 ## Work experience
+- **Senior Software Engineer, SC ASSET Company Limited (Bangkok, Thailand)**
+
+  *September 2023 - Present*
+  
+  - Developed web application and service based on designs from Project owner and Software engineer specialist
+  - Skills: Node.js, Vue.js, PostgreSQL, Docker, Google Cloud
 - **Software Engineer Outsource, Aware Group (Bangkok, Thailand)**
 
-  From Oct 2019 - Present: Outsourcing was 4 company
+  From Oct 2019 - August 2023: Outsourcing was 4 company
   
   - **Software Engineer, Gosoft (Bangkok, Thailand)**
     
