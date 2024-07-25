@@ -3,16 +3,23 @@
 - live in Bangkok City, Thailand
 - Contact
   - email: [surakiat.n@gmail.com](mailto:surakiat.n@gmail.com)
-  - linkedin: [ballsurakiat](https://www.linkedin.com/in/ballsurakiat)
+  - linkedin: [ballsurakiat](https://www.linkedin.com/in/ballsurakiat/)
   - Github: [ballsurakiat](https://github.com/ballsurakiat)
 
 ## Summary
-I'm working in role Full Stack Web Developer about 4 year experience as Javascript & Typescript programming language wich framework mostly was 
-- Fronted: Vuejs, ReactJs.
-- Backend: NodeJS (ExpressJS, NestJS), Gin(Golang).
-- Database feel good at: MongoDB, MySQL, Postgresql.
-- Cloud a little bit at: Digitalocean, Cloudflare mostly in staging environment and mini task assigned.
-- Basic use at: Google Adsense, Google Analytics, Google Search console.
+- **Current Role:** Senior Software Engineer
+
+- **Programming Languages:** TypeScript, JavaScript, Golang
+
+- **Frontend Frameworks:** Vue.js, React.js
+
+-  **Backend Frameworks:** Node.js (Express.js, Nest.js), Golang (Gin)
+
+- **Databases:** PostgreSQL, MySQL, MongoDB
+
+- **Cloud Platforms:** Proficiency in staging environments and small-scale projects on DigitalOcean, Google Cloud and Cloudflare.
+
+- **Additional Tools:** Basic utilization of Google AdSense, Google Analytics, and Google Search Console.
 
 ## Licenses & certifications
 - Issued July 16, 2022 CareerVio: Responsive Web Design Developer Certificate [Show credential](https://learn.careervio.com/certification/fcc7725b852-2049-40d9-a43b-dc4585de2639/responsive-web-design)
@@ -30,7 +37,7 @@ I'm working in role Full Stack Web Developer about 4 year experience as Javascri
   
   - **Software Engineer, Gosoft (Bangkok, Thailand)**
     
-    *June 2023 - Current*
+    *June 2023 - September 2023*
 
     - Worked on a secret project
     - Developed node.js services based on designs from the team lead
@@ -82,7 +89,7 @@ I'm working in role Full Stack Web Developer about 4 year experience as Javascri
   *Jul 2017 - Oct 2017*
    - secret project detail
    - develop, testing website from task assigned
-   - Skills: .NET Framework · Bootstrap · Microsoft SQL Server
+   - Skills: .NET Framework, Bootstrap, Microsoft SQL Server
 
 ## Education
 - Bachelors in Enterprise Software at Suranaree University of Technology (Nakhon Ratchasima Province, Thailand) GPAX: 2.21
