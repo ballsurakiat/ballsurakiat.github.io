@@ -1,10 +1,11 @@
 # Surakiat Nantasaeng
-- Full Stack Web Developer
-- live in Bangkok City, Thailand
-- Contact
-  - email: [surakiat.n@gmail.com](mailto:surakiat.n@gmail.com)
-  - linkedin: [ballsurakiat](https://www.linkedin.com/in/ballsurakiat/)
-  - Github: [ballsurakiat](https://github.com/ballsurakiat)
+
+Full Stack Web Developer Profile (Bangkok, Thailand)
+
+Contact:
+- Email: [surakiat.n@gmail.com](mailto:surakiat.n@gmail.com)
+- LinkedIn: [ballsurakiat](https://www.linkedin.com/in/ballsurakiat/)
+- GitHub: [ballsurakiat](https://github.com/ballsurakiat)
 
 ## Summary
 - **Current Role:** Senior Software Engineer
@@ -25,73 +26,104 @@
 - Issued July 16, 2022 CareerVio: Responsive Web Design Developer Certificate [Show credential](https://learn.careervio.com/certification/fcc7725b852-2049-40d9-a43b-dc4585de2639/responsive-web-design)
 
 ## Work experience
-- **Senior Software Engineer, SC ASSET Company Limited (Bangkok, Thailand)**
 
-  *September 2023 - Present*
+* **Senior Software Engineer** SC ASSET Company Limited (Bangkok, Thailand)
+
+  * *September 2023 - Present*
   
-  - Developed web application and service based on designs from Project owner and Software engineer specialist
-  - Skills: Node.js, Vue.js, PostgreSQL, Docker, Google Cloud
-- **Software Engineer Outsource, Aware Group (Bangkok, Thailand)**
+    * **Description:**
+        * Developed web applications and services based on designs provided by project owners and software engineer specialists.
+        * Utilized skills in Node.js, Vue.js, PostgreSQL, Docker, and Google Cloud.
+ 
+* **Software Engineer Outsource, Aware Group (Bangkok, Thailand)**
 
-  From Oct 2019 - August 2023: Outsourcing was 4 company
+  * Outsourcing was 4 company
+ 
+  * *Oct 2019 - August 2023*
+
+    * **Company:** Gosoft (Bangkok, Thailand)
+      * **Dates:** June 2023 - September 2023
+      * **Description:**
+          * Worked on a confidential project.
+          * Developed Node.js services based on designs provided by the team lead.
+          * Utilized skills in Node.js, PassportJS, MySQL, and Jest.
+    
+    * **Company:** Egg Digital (Bangkok, Thailand)
+      * **Dates:** August 2022 - June 2023
+      * **Description:**
+          * Developed a single web portal backend CMS for managing content on True.th.
+          * Responsibilities included:
+              * Planning features
+              * Supporting issues and defects
+              * Performing maintenance
+          * Utilized skills in React.js, Strapi, Node.js, MySQL, and Docker.
+    
+    * **Company:** AIS (Bangkok, Thailand)
+      * **Dates:** June 2020 - July 2022
+      * **Description:**
+          * Developed features for an e-commerce platform selling physical SIM cards and eSIMs.
+          * Responsibilities included:
+              * Planning and development based on requirements
+              * Diagnosing issues and performing backend website maintenance
+              * Generating reports and summary data
+          * Utilized skills in Vue.js, HTML, Java, PostgreSQL, and JBoss Application Server
+    
+    * **Company:** True (Bangkok, Thailand)
+      * **Dates:** October 2019 - May 2020
+      * **Description:**
+          * Developed the True Intra admin dashboard.
+          * Responsibilities included:
+              * Generating dashboards from Excel data
+              * Designing and developing web applications based on requirements
+              * Planning development, testing, and documentation
+              * Providing maintenance and issue support to users
+          * Utilized skills in React.js, Node.js, Oracle DB, and Docker.
+
+* **Web Application Developer, EZKAE Co.,Ltd. (Bangkok, Thailand)**
   
-  - **Software Engineer, Gosoft (Bangkok, Thailand)**
+  * *July 2018 - September 2019*
+
+  - **Project:** E-commerce Sale for Government Supply (Goverlution.com)
+
+    **Description:**
     
-    *June 2023 - September 2023*
-
-    - Worked on a secret project
-    - Developed node.js services based on designs from the team lead
-    - Skills: Node.js, PassportJS, MySQL, Jest
-
-
-  - **Software Engineer, Egg Digital (Bangkok, Thailand)**
+    * Planned, developed, tested, and deployed an e-commerce platform for government supply sales.
+    * Implemented improvements and developed new features to enhance user experience and functionality.
+    * Provided ongoing issue support and maintenance to ensure website performance and stability.
     
-    *August 2022 - June 2023*
-
-    - Worked on a project involving a single web portal backend CMS for managing content for True.th
-    - Responsibilities included developing planning features, providing support for issues and defects, and performing maintenance
-    - Skills: React.js, Strapi, Node.js, MySQL, Docker
-
-
-  - **Software Engineer, AIS (Bangkok, Thailand)**
+    **Technologies:**
+    * Node.js
+    * Vue.js
+    * Cloud Platform: DigitalOcean
+    * Web Server: NGINX
+    * Process Manager: pm2
+    * Operating System: Linux Server
+    * Database: MySQL
+   
+  - **Project:** Single Page Droppointplus.com
     
-    *June 2020 - July 2022*
-
-    - Worked on a project involving an e-commerce product for physical SIM cards and eSIMs
-    - Responsibilities included planning and developing features based on requirements, diagnosing issues and performing maintenance on the website backend, and generating reports and summary data for the project manager
-    - Skills: Vue.js, HTML, Java, PostgreSQL, JBoss Application Server
-
-  - **Software Engineer, True (Bangkok, Thailand)**
+    **Description:**
+    * Planned, developed, tested, and deployed a single-page web application.
+    * Implemented improvements and developed new features to enhance user experience.
+    * Provided ongoing issue support and maintenance to ensure website functionality.
     
-    *October 2019 - May 2020*
+    **Technologies:**
+    * HTML
+    * jQuery
+    * PHP
+    * MySQL
+    * Apache Web Server
 
-    - Worked on a project involving the True Intra admin dashboard
-    - Responsibilities included generating dashboards from Excel data, designing and developing web applications based on requirements, planning development, testing and documentation, and providing maintenance and issue support to users
-    - Skills: React.js, Node.js, Oracle DB, Docker
-
-- **Web Application Developer, EZKAE Co.,Ltd. (Bangkok, Thailand)**
+* **Web Developer (Cooperative Education) at Bluewind Solution Co., Ltd. (Khlong Luang, Pathum Thani)**
   
-  *July 2018 - September 2019*
-
-  - **Project: E-commerce Sale for Government Supply (Goverlution.com)**
-      - Planned, developed, tested, and deployed websites
-      - Improved and developed new features
-      - Provided issue support and maintenance
-      - Skills: Node.js, Vue.js, Cloud DigitalOcean, NGINX, pm2, Linux Server, MySQL
-  - **Project: Single Page Droppointplus.com**
-      - Planned, developed, tested, and deployed website
-      - Improved and developed new features
-      - Provided issue support and maintenance
-      - Skills: HTML, JQuery, PHP, MySQL, Apache Web Server
-
-- **Web Developer (Cooperative Education) at Bluewind Solution Co., Ltd. (Khlong Luang, Pathum Thani)**
-  
-  *Jul 2017 - Oct 2017*
-   - secret project detail
-   - develop, testing website from task assigned
+  * *Jul 2017 - Oct 2017*
+   - Project detail is secret
+   - Develop, Testing features on web application from assigned task
    - Skills: .NET Framework, Bootstrap, Microsoft SQL Server
 
 ## Education
-- Bachelors in Enterprise Software at Suranaree University of Technology (Nakhon Ratchasima Province, Thailand) GPAX: 2.21
+
+- Bachelors in Enterprise Software *2015 - 2018*
+  - Suranaree University of Technology (Nakhon Ratchasima Province, Thailand)
+  - GPAX: 2.21
   
-  *2015 - 2018*
