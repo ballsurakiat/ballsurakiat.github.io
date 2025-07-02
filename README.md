@@ -1,4 +1,4 @@
-# Surakiat Nantasaeng
+# Surakiat Nantasaeng (Ball)
 
 Full Stack Web Developer Profile (Bangkok, Thailand)
 
@@ -10,17 +10,15 @@ Contact:
 ## Summary
 - **Current Role:** Senior Software Engineer
 
-- **Programming Languages:** TypeScript, JavaScript, Golang
+- **Programming Languages:** TypeScript, JavaScript
 
-- **Frontend Frameworks:** Vue.js, React.js
+- **Frontend Frameworks:** Vue.js
 
--  **Backend Frameworks:** Node.js (Express.js, Nest.js), Golang (Gin)
+-  **Backend Frameworks:** Node.js (Nest.js, Express.js)
 
-- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Databases:** PostgreSQL, MySQL
 
-- **Cloud Platforms:** Proficiency in staging environments and small-scale projects on DigitalOcean, Google Cloud and Cloudflare.
-
-- **Additional Tools:** Basic utilization of Google AdSense, Google Analytics, and Google Search Console.
+- **Cloud Platforms:** Google Cloud, Cloudflare and DigitalOcean.
 
 ## Licenses & certifications
 - Issued July 16, 2022 CareerVio: Responsive Web Design Developer Certificate [Show credential](https://learn.careervio.com/certification/fcc7725b852-2049-40d9-a43b-dc4585de2639/responsive-web-design)
@@ -33,6 +31,7 @@ Contact:
   
     * **Description:**
         * Developed web applications and services based on designs provided by project owners and software engineer specialists.
+        * Ruejai Payment Gateway, a specialized payment gateway solution designed exclusively.
         * Utilized skills in Node.js, Vue.js, PostgreSQL, Docker, and Google Cloud.
  
 * **Software Engineer Outsource, Aware Group (Bangkok, Thailand)**
