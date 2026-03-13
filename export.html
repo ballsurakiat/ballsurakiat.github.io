@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surakiat Nantasaeng - Portfolio Export</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            font-size: 12pt;
+            line-height: 1.4;
+            margin: 0;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #000;
+            padding-bottom: 20px;
+        }
+        .name {
+            font-size: 24pt;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .title {
+            font-size: 14pt;
+            margin-bottom: 10px;
+        }
+        .contact {
+            font-size: 11pt;
+            margin-bottom: 15px;
+        }
+        .section {
+            margin-bottom: 25px;
+        }
+        .section-title {
+            font-size: 16pt;
+            font-weight: bold;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        .job-title {
+            font-size: 13pt;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .company {
+            font-weight: bold;
+            margin-bottom: 3px;
+        }
+        .period {
+            font-style: italic;
+            margin-bottom: 8px;
+        }
+        .description {
+            margin-bottom: 10px;
+            text-align: justify;
+        }
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        .skill-category {
+            margin-bottom: 10px;
+        }
+        .skill-category-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .technologies {
+            margin-top: 8px;
+        }
+        .tech-tag {
+            display: inline-block;
+            background: #f0f0f0;
+            padding: 2px 6px;
+            margin: 2px;
+            font-size: 10pt;
+        }
+        .project {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        .project-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        @media print {
+            body {
+                padding: 0;
+                max-width: none;
+            }
+            .header {
+                margin-bottom: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="name">Surakiat Nantasaeng</div>
+        <div class="title">Senior Full Stack Developer</div>
+        <div class="contact">
+            Bangkok, Thailand | surakiat.n@gmail.com | linkedin.com/in/ballsurakiat | github.com/ballsurakiat
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">About Me</div>
+        <div class="description">
+            Passionate Senior Full Stack Developer with extensive experience in modern web technologies.
+            Specialized in building scalable applications using cutting-edge frameworks and cloud platforms.
+        </div>
+        <div>• 5+ Years Experience</div>
+        <div>• 10+ Projects Completed</div>
+        <div>• 4 Companies Worked</div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Technical Skills</div>
+        <div class="skills-grid">
+            <div class="skill-category">
+                <div class="skill-category-title">Frontend</div>
+                <div class="technologies">
+                    <span class="tech-tag">TypeScript</span>
+                    <span class="tech-tag">Vue.js</span>
+                    <span class="tech-tag">Tailwind + DaisyUI</span>
+                    <span class="tech-tag">HTML/CSS</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-category-title">Backend</div>
+                <div class="technologies">
+                    <span class="tech-tag">Node.js</span>
+                    <span class="tech-tag">Nest.js</span>
+                    <span class="tech-tag">Express.js</span>
+                    <span class="tech-tag">REST APIs</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-category-title">Database</div>
+                <div class="technologies">
+                    <span class="tech-tag">PostgreSQL</span>
+                    <span class="tech-tag">MySQL</span>
+                    <span class="tech-tag">MongoDB</span>
+                    <span class="tech-tag">Redis</span>
+                </div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-category-title">Cloud & DevOps</div>
+                <div class="technologies">
+                    <span class="tech-tag">Google Cloud</span>
+                    <span class="tech-tag">Docker</span>
+                    <span class="tech-tag">Kubernetes</span>
+                    <span class="tech-tag">Helm Chart</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Work Experience</div>
+
+        <div class="job">
+            <div class="job-title">Senior Software Engineer</div>
+            <div class="company">SC ASSET Company Limited, Bangkok, Thailand</div>
+            <div class="period">September 2023 - Present</div>
+            <div class="description">
+                Created and set up Ruejai Payment Gateway from scratch, a centralized payment gateway solution for SC Asset that provides payment services for every Business Unit (BU) within SC Asset and external partners.
+            </div>
+            <div class="technologies">
+                <span class="tech-tag">Node.js</span>
+                <span class="tech-tag">Vue.js</span>
+                <span class="tech-tag">PostgreSQL</span>
+                <span class="tech-tag">Docker</span>
+                <span class="tech-tag">Google Cloud</span>
+            </div>
+        </div>
+
+        <div class="job">
+            <div class="job-title">Software Engineer (Outsource)</div>
+            <div class="company">Aware Group, Bangkok, Thailand</div>
+            <div class="period">October 2019 - August 2023</div>
+            <div class="description">
+                Served as an outsource software engineer across multiple companies delivering web development solutions and maintaining various client projects.
+            </div>
+            <div class="technologies">
+                <span class="tech-tag">React.js</span>
+                <span class="tech-tag">Vue.js</span>
+                <span class="tech-tag">Node.js</span>
+                <span class="tech-tag">MySQL</span>
+                <span class="tech-tag">PostgreSQL</span>
+                <span class="tech-tag">Docker</span>
+            </div>
+
+            <div class="project">
+                <div class="project-title">Gosoft - Confidential Node.js Services</div>
+                <div class="period">June 2023 - August 2023</div>
+                <div class="description">
+                    Developed Node.js services based on team lead designs for a confidential project.
+                </div>
+                <div class="technologies">
+                    <span class="tech-tag">Node.js</span>
+                    <span class="tech-tag">PassportJS</span>
+                    <span class="tech-tag">MySQL</span>
+                    <span class="tech-tag">Jest</span>
+                </div>
+            </div>
+
+            <div class="project">
+                <div class="project-title">Egg Digital - True.th CMS Portal</div>
+                <div class="period">August 2022 - June 2023</div>
+                <div class="description">
+                    Developed a single web portal backend CMS for managing content on True.th. Responsibilities included planning features, supporting issues and defects, and performing maintenance.
+                </div>
+                <div class="technologies">
+                    <span class="tech-tag">React.js</span>
+                    <span class="tech-tag">Strapi</span>
+                    <span class="tech-tag">Node.js</span>
+                    <span class="tech-tag">MySQL</span>
+                    <span class="tech-tag">Docker</span>
+                </div>
+            </div>
+
+            <div class="project">
+                <div class="project-title">AIS - E-commerce Platform for SIM Cards</div>
+                <div class="period">June 2020 - July 2022</div>
+                <div class="description">
+                    Developed features for an e-commerce platform selling physical SIM cards and eSIMs. Responsibilities included planning and development based on requirements, diagnosing issues and performing backend website maintenance, and generating reports and summary data.
+                </div>
+                <div class="technologies">
+                    <span class="tech-tag">Vue.js</span>
+                    <span class="tech-tag">HTML</span>
+                    <span class="tech-tag">Java</span>
+                    <span class="tech-tag">PostgreSQL</span>
+                    <span class="tech-tag">JBoss Application Server</span>
+                </div>
+            </div>
+
+            <div class="project">
+                <div class="project-title">True Corporation - True Intra Admin Dashboard</div>
+                <div class="period">October 2019 - May 2020</div>
+                <div class="description">
+                    Developed the True Intra admin dashboard. Responsibilities included generating dashboards from Excel data, designing and developing web applications based on requirements, planning development, testing, and documentation, and providing maintenance and issue support to users.
+                </div>
+                <div class="technologies">
+                    <span class="tech-tag">React.js</span>
+                    <span class="tech-tag">Node.js</span>
+                    <span class="tech-tag">Oracle DB</span>
+                    <span class="tech-tag">Docker</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="job">
+            <div class="job-title">Web Application Developer</div>
+            <div class="company">EZKAE Co., Ltd., Bangkok, Thailand</div>
+            <div class="period">July 2018 - September 2019</div>
+            <div class="description">
+                Planned, developed, tested, and deployed e-commerce platforms and single-page applications.
+            </div>
+            <div class="technologies">
+                <span class="tech-tag">Node.js</span>
+                <span class="tech-tag">Vue.js</span>
+                <span class="tech-tag">PHP</span>
+                <span class="tech-tag">MySQL</span>
+                <span class="tech-tag">DigitalOcean</span>
+            </div>
+        </div>
+
+        <div class="job">
+            <div class="job-title">Web Developer (Cooperative Education)</div>
+            <div class="company">Bluewind Solution Co., Ltd., Khlong Luang, Pathum Thani</div>
+            <div class="period">July 2017 - October 2017</div>
+            <div class="description">
+                Developed and tested web application features from assigned tasks.
+            </div>
+            <div class="technologies">
+                <span class="tech-tag">.NET Framework</span>
+                <span class="tech-tag">Bootstrap</span>
+                <span class="tech-tag">Microsoft SQL Server</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Education</div>
+        <div class="job">
+            <div class="job-title">Bachelor of Enterprise Software</div>
+            <div class="company">Suranaree University of Technology, Nakhon Ratchasima, Thailand</div>
+            <div class="period">2015 - 2018 • GPA: 2.21</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Certifications</div>
+        <div class="job">
+            <div class="job-title">Responsive Web Design Developer Certificate</div>
+            <div class="company">CareerVio</div>
+            <div class="period">Issued July 16, 2022</div>
+            <div class="description">
+                Credential ID: fcc7725b852-2049-40d9-a43b-dc4585de2639
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -12,28 +12,6 @@
         .hero-gradient { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
         .skill-card { transition: all 0.3s ease; }
         .skill-card:hover { transform: translateY(-5px); box-shadow: 0 10px 25px rgba(0,0,0,0.15); }
-        .pdf-export, .pdf-export * {
-            -webkit-print-color-adjust: exact !important;
-            color-adjust: exact !important;
-        }
-        .pdf-export .hero-gradient {
-            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%) !important;
-            color: #212529 !important;
-        }
-        .pdf-export .bg-gray-900 {
-            background: #ffffff !important;
-            color: #212529 !important;
-        }
-        .pdf-export .bg-gray-800 {
-            background: #f8f9fa !important;
-            color: #212529 !important;
-        }
-        .pdf-export .text-white {
-            color: #212529 !important;
-        }
-        .pdf-export .bg-gradient-to-r {
-            background: #fff3cd !important;
-        }
         @media print {
             body { 
                 background-color: white !important; 
@@ -104,12 +82,9 @@
                     <button id="lang-switcher" class="bg-gray-100 hover:bg-gray-200 px-3 py-2 rounded-lg transition-colors text-sm font-medium">
                         <span id="current-lang">EN</span>
                     </button>
-                    <button onclick="window.print()" class="bg-gray-100 hover:bg-gray-200 p-2 rounded-lg transition-colors">
-                        <i class="fas fa-print text-gray-600"></i>
-                    </button>
-                    <button onclick="exportToPDF()" class="bg-blue-600 hover:bg-blue-700 text-white p-2 rounded-lg transition-colors">
-                        <i class="fas fa-download"></i>
-                    </button>
+                    <a href="export.html" target="_blank" class="bg-green-600 hover:bg-green-700 text-white p-2 rounded-lg transition-colors">
+                        <i class="fas fa-file-alt"></i>
+                    </a>
                 </div>
             </div>
         </div>
@@ -278,8 +253,6 @@
         </div>
     </section>
 
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
     <script>
         // Translations
         const translations = {
@@ -652,41 +625,6 @@
                 `;
                 
                 timeline.appendChild(item);
-            });
-        }
-
-        function exportToPDF() {
-            // Add print-specific class to body for PDF generation
-            document.body.classList.add('pdf-export');
-            
-            const element = document.body;
-            const opt = {
-                margin: [0.5, 0.5, 0.5, 0.5], // 0.5 inch margins
-                filename: 'Surakiat_Nantasaeng_Portfolio.pdf',
-                image: { type: 'jpeg', quality: 0.95 },
-                html2canvas: { 
-                    scale: 2,
-                    useCORS: true,
-                    letterRendering: true,
-                    allowTaint: false
-                },
-                jsPDF: { 
-                    unit: 'in', 
-                    format: 'letter', 
-                    orientation: 'portrait',
-                    compress: true
-                },
-                pagebreak: { 
-                    mode: ['avoid-all', 'css', 'legacy'],
-                    before: '.print-break',
-                    after: 'section',
-                    avoid: ['.timeline-item', '.skill-card', 'h1', 'h2', 'h3']
-                }
-            };
-            
-            html2pdf().set(opt).from(element).save().then(() => {
-                // Remove print-specific class after PDF generation
-                document.body.classList.remove('pdf-export');
             });
         }
 
